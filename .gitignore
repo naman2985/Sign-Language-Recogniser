@@ -1,4 +1,4 @@
-Signs/
-models/
-.git/
-.ipynb_checkpoints/
+Signs/*
+models/*
+.git/*
+.ipynb_checkpoints/*
